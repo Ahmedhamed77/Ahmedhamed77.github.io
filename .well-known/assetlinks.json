@@ -6,7 +6,6 @@
     "package_name": "org.ticketscloud.ticketwallet",
     "sha256_cert_fingerprints":
     ["2E:2D:25:9F:CF:CD:62:9B:1D:3C:12:0C:E1:21:34:3C:C6:F5:E8:76:F2:D1:44:E8:8A:C4:03:2C:4C:7E:E1:2D"]
-  }
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
@@ -15,5 +14,5 @@
       "package_name": "com.vibe",
       "sha256_cert_fingerprints":
       ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
-    }
-  }]
+   }
+]
